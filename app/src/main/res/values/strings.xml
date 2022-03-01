@@ -3,4 +3,9 @@
     <string name="title">RGB Colors</string>
     <string name="explanation">Fill the fields below with 3 hexadecimal numbers
     (from #00 to #FF) that represent the 3 basic colors to create a new color.</string>
+    <string name="red_hint">Red:</string>
+    <string name="green_hint">Green:</string>
+    <string name="blue_hint">Blue:</string>
+    <string name="button_text">Create color</string>
+    <string name="fillValues">Fill ALL 3 values</string>
 </resources>
